@@ -1,0 +1,10 @@
+{
+  "name": "Remix Pop-Art Magic Creator",
+  "description": "Transform your photos into trending comic-style Pop Art masterpieces using Gemini\u0027s advanced image-to-image generation.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
